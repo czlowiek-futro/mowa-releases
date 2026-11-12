@@ -6,6 +6,15 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.48</title>
+      <pubDate>Thu, 12 Nov 2026 12:54:25 GMT</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>0.2.48</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Tytuł w Ustawieniach ma stałe tło: przewijane karty chowają się pod nim i nie nachodzą na napis.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.48/Mowa-0.2.48.zip" length="5322394" type="application/octet-stream" sparkle:edSignature="8//Yp0c/zczJbzDXh84Qr4fP2Lfgw5mfeZ7mH71HNpS9HddnSomZtRoOh77APR7ZMngTkfKgU5qWZwMu86A0Bw==" />
+    </item>
+    <item>
       <title>Mowa 0.2.47</title>
       <pubDate>Thu, 12 Nov 2026 09:41:44 GMT</pubDate>
       <sparkle:version>49</sparkle:version>
