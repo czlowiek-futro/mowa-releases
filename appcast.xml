@@ -6,6 +6,15 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.53</title>
+      <pubDate>Thu, 12 Nov 2026 16:37:01 GMT</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>0.2.53</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Escape w trakcie dyktowania lub notatki nie usuwa już nagrania od razu. Pasek pyta „Usunąć nagranie?”: Return usuwa, Escape wraca do nagrywania, „Zachowaj audio” zostawia nagranie.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.53/Mowa-0.2.53.zip" length="5580109" type="application/octet-stream" sparkle:edSignature="5oXMjKQVFTy8o2R2ZD7vY5qQ4w3E5zESsaUGeu9cXGPn0VdeHqHfY5qzd5ViXTF38MQKgTAo4E8m42/9sVT/Cw==" />
+    </item>
+    <item>
       <title>Mowa 0.2.52</title>
       <pubDate>Thu, 12 Nov 2026 16:21:10 GMT</pubDate>
       <sparkle:version>54</sparkle:version>
