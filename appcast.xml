@@ -6,6 +6,19 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.47</title>
+      <pubDate>Thu, 12 Nov 2026 09:41:44 GMT</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>0.2.47</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;
+&lt;li&gt;Karta „Koszt API” pokazuje dwie sumy: dziś i bieżący miesiąc.&lt;/li&gt;
+&lt;li&gt;Próby bez danych o użyciu są podane liczbą, nie jako zero.&lt;/li&gt;
+&lt;li&gt;Usunięcie nagrania nie zmniejsza już sumy kosztów.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.47/Mowa-0.2.47.zip" length="5311829" type="application/octet-stream" sparkle:edSignature="v6zuT1VLbFZ4JdE+v5Vw//G2hNEK5WWY3JlrT3BeuYz8COgB+pzK/9JlGhWQBcMWBtMnlAKRO61OX2380ZnlCA==" />
+    </item>
+    <item>
       <title>Mowa 0.2.46</title>
       <pubDate>Thu, 12 Nov 2026 09:19:00 GMT</pubDate>
       <sparkle:version>48</sparkle:version>
