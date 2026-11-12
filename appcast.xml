@@ -6,6 +6,18 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.50</title>
+      <pubDate>Thu, 12 Nov 2026 15:16:19 GMT</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>0.2.50</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;
+&lt;li&gt;Szybsza korekta dyktowania: OpenAI w trybie Fast (koszt liczony według trybu, który faktycznie naliczyło OpenAI).&lt;/li&gt;
+&lt;li&gt;Korekta przez Claude zawsze używa szybkiego Haiku 5.5 bez rozumowania. Wybrany model Claude dotyczy notatek.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.50/Mowa-0.2.50.zip" length="5335223" type="application/octet-stream" sparkle:edSignature="wDVaRb4+RjJTtZi6/7f/7yhF9E0g2QpWKDUnHWzPshaRPFbJFWaawNUFDNJFgm75N/mYCDKCIhMBBlpu86GMDw==" />
+    </item>
+    <item>
       <title>Mowa 0.2.49</title>
       <pubDate>Thu, 12 Nov 2026 14:13:32 GMT</pubDate>
       <sparkle:version>51</sparkle:version>
