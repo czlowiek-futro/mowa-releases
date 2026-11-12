@@ -6,6 +6,15 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.49</title>
+      <pubDate>Thu, 12 Nov 2026 14:13:32 GMT</pubDate>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>0.2.49</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Mikrofon startuje od razu po naciśnięciu skrótu. Nie czeka już na wstrzymanie muzyki, więc pierwsze słowa nie przepadają.&lt;/li&gt;&lt;li&gt;Możesz mówić, gdy tylko pasek pokaże wskaźnik poziomu dźwięku.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.49/Mowa-0.2.49.zip" length="5329620" type="application/octet-stream" sparkle:edSignature="WmmUu5121LBtPNPdWP9C2EhAhgZeq4QjsCLeNno5+wyNBV0cRFAIl6sODqFHa941xqWjKJhuBMVHrOhGDejEAQ==" />
+    </item>
+    <item>
       <title>Mowa 0.2.48</title>
       <pubDate>Thu, 12 Nov 2026 12:54:25 GMT</pubDate>
       <sparkle:version>50</sparkle:version>
