@@ -6,6 +6,18 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.52</title>
+      <pubDate>Thu, 12 Nov 2026 16:21:10 GMT</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>0.2.52</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;
+&lt;li&gt;Synchronizacja z iPhonem przez iCloud (Ustawienia → Dane i prywatność, domyślnie wyłączona). Audio i klucze zostają na urządzeniu.&lt;/li&gt;
+&lt;li&gt;Notatki głosowe z iPhone'a pojawiają się w historii z ikoną telefonu.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.52/Mowa-0.2.52.zip" length="5561126" type="application/octet-stream" sparkle:edSignature="8llGXBci7EiWHtf4kRyPtS7941a9cIV7WNJmJbexQxCJaCNPkDNmxv/BSZQzctAFDOnrUtAr0g3LqvQ7qGTSCQ==" />
+    </item>
+    <item>
       <title>Mowa 0.2.51</title>
       <pubDate>Thu, 12 Nov 2026 15:25:35 GMT</pubDate>
       <sparkle:version>53</sparkle:version>
