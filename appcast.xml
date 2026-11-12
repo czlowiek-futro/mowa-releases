@@ -6,6 +6,15 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.54</title>
+      <pubDate>Thu, 12 Nov 2026 20:29:49 GMT</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>0.2.54</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;W bibliotece zakładki „Wszystkie”, „Dyktowanie”, „Spotkania” i „Notatki” przełączają się od pierwszego kliknięcia.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.54/Mowa-0.2.54.zip" length="5587691" type="application/octet-stream" sparkle:edSignature="ju24vu5Vz+P4oqy+BMmiJoFkelLo6m+K50itPyMi7nXioMDPL/iM3auN22Oh2PmzVXT4JetNYr/53wMOuCdVDw==" />
+    </item>
+    <item>
       <title>Mowa 0.2.53</title>
       <pubDate>Thu, 12 Nov 2026 16:37:01 GMT</pubDate>
       <sparkle:version>55</sparkle:version>
