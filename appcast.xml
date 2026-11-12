@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Mowa</title>
+    <link>https://github.com/czlowiek-futro/mowa-releases</link>
+    <description>Aktualizacje Mowy dla macOS</description>
+    <language>pl</language>
+    <item>
+      <title>Mowa 0.2.46</title>
+      <pubDate>Thu, 12 Nov 2026 09:19:00 GMT</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.2.46</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;
+&lt;li&gt;Mowa sama sprawdza aktualizacje i proponuje ich instalację. Nigdy nie przerywa nagrania.&lt;/li&gt;
+&lt;li&gt;Paczka jest podpisana i sprawdzona przez Apple, więc otwiera się bez „Otwórz mimo to”.&lt;/li&gt;
+&lt;li&gt;Korekta nie wykonuje już poleceń z dyktowanego tekstu, tylko je poprawia.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.46/Mowa-0.2.46.zip" length="5288219" type="application/octet-stream" sparkle:edSignature="o2H4cAhnGmiFjA/w1P4ROpKVgBHLbS1WmYrH1luXX1rvYnHFq3fjzeX3UZcJ5rqZFCSNUiA70IMX3jYBLzHlBQ==" />
+    </item>
+  </channel>
+</rss>
