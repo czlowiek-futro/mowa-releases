@@ -6,6 +6,19 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.55</title>
+      <pubDate>Fri, 13 Nov 2026 10:04:58 GMT</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>0.2.55</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;
+&lt;li&gt;Nieudane zapytania do OpenAI, ElevenLabs i Claude są ponawiane automatycznie po przejściowych błędach (brak połączenia, przeciążenie serwera, limit zapytań, przekroczony czas odpowiedzi).&lt;/li&gt;
+&lt;li&gt;Ponowienie nie wysyła drugi raz ukończonych fragmentów, korekty ani notatki. Każda próba ma osobny wpis w kosztach.&lt;/li&gt;
+&lt;li&gt;Błędny klucz i puste konto nie są ponawiane. Po wyczerpaniu prób zostaje przycisk „Ponów”.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.55/Mowa-0.2.55.zip" length="5605532" type="application/octet-stream" sparkle:edSignature="fAq6cA0mY+foz4H7bBhPe6rHaoKB9bZ3jKP20z3tQJxjo/KzdaEl1r9VMnnW4o9dSaXVeYlJHP4QCL2ScmrjDQ==" />
+    </item>
+    <item>
       <title>Mowa 0.2.54</title>
       <pubDate>Thu, 12 Nov 2026 20:29:49 GMT</pubDate>
       <sparkle:version>56</sparkle:version>
