@@ -6,6 +6,21 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.57</title>
+      <pubDate>Sat, 14 Nov 2026 10:33:39 GMT</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>0.2.57</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;
+&lt;li&gt;Nowy wygląd według design systemu Mowy: treść leży na papierze, sterowanie unosi się na szkle. Na macOS 26 pasek boczny i pasek narzędzi to systemowe Liquid Glass.&lt;/li&gt;
+&lt;li&gt;Nowa ikona aplikacji: fala głosu na szklanej kapsule.&lt;/li&gt;
+&lt;li&gt;Przełącznik „Poprawiony / Źródłowy” jest teraz w pasku narzędzi.&lt;/li&gt;
+&lt;li&gt;Panel nagrywania pokazuje krok przetwarzania, a przy długim spotkaniu także postęp fragmentów.&lt;/li&gt;
+&lt;li&gt;Lista nagrań: wiersz dyktowania ma w tytule pierwsze słowa, a w podglądzie tekst od początku.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.57/Mowa-0.2.57.zip" length="5381380" type="application/octet-stream" sparkle:edSignature="B1nTBQz61oaknBc5AKQEtc0OxTubReX8UdwIuHx6EVcpF1UAO4YkcY2qd/NtzZWfD6b4uByC3VIEtY6a/kDQAA==" />
+    </item>
+    <item>
       <title>Mowa 0.2.55</title>
       <pubDate>Fri, 13 Nov 2026 10:04:58 GMT</pubDate>
       <sparkle:version>57</sparkle:version>
