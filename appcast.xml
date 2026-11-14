@@ -6,6 +6,18 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.61</title>
+      <pubDate>Sat, 14 Nov 2026 19:34:43 GMT</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>0.2.61</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;
+&lt;li&gt;Panel z ikony w pasku menu zawsze mieści się w całości. Wcześniej, zwłaszcza po zakończeniu nagrywania, górny wiersz ze stanem i kafelki Dyktuj, Spotkanie i Notatka chowały się pod paskiem menu.&lt;/li&gt;
+&lt;li&gt;Panel dopasowuje wysokość, gdy coś zmienia się przy otwartym panelu, na przykład gdy zaczyna się nagranie albo pojawia się nowy tekst.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.61/Mowa-0.2.61.zip" length="5305992" type="application/octet-stream" sparkle:edSignature="WNGUBMX8SGiFiEIPV3KpNczQCpJ5FHUAgCnDhOCrIgM33JTSDRHBPpYZop9adAu5EiQlCrq7OfEAt4KimLfhCQ==" />
+    </item>
+    <item>
       <title>Mowa 0.2.60</title>
       <pubDate>Sat, 14 Nov 2026 18:08:25 GMT</pubDate>
       <sparkle:version>62</sparkle:version>
