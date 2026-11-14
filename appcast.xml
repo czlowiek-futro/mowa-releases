@@ -6,6 +6,18 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.60</title>
+      <pubDate>Sat, 14 Nov 2026 18:08:25 GMT</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>0.2.60</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;
+&lt;li&gt;Porządki w kodzie aplikacji: działanie się nie zmienia, ale kolejne poprawki i nowe funkcje będą szybsze i bezpieczniejsze.&lt;/li&gt;
+&lt;li&gt;Nagrywanie, transkrypcja, notatki, wklejanie i ekrany działają i wyglądają tak samo jak w 0.2.59.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.60/Mowa-0.2.60.zip" length="5305020" type="application/octet-stream" sparkle:edSignature="SgOpeyEWzQMDi2StIFBlGNKrZcVtY7RR3SOolfsdbiUKiOndcuCVepWXVqgtqzaEfI+QkVJ2zG5znb6oAKhABA==" />
+    </item>
+    <item>
       <title>Mowa 0.2.59</title>
       <pubDate>Sat, 14 Nov 2026 13:19:07 GMT</pubDate>
       <sparkle:version>61</sparkle:version>
