@@ -6,6 +6,19 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.58</title>
+      <pubDate>Sat, 14 Nov 2026 10:59:55 GMT</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>0.2.58</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;
+&lt;li&gt;Transkrypt spotkania ma ten sam odtwarzacz z falą co notatka.&lt;/li&gt;
+&lt;li&gt;Dostawca i koszt dyktowania są tylko w szczegółach nagrania, już nie pod tekstem.&lt;/li&gt;
+&lt;li&gt;Na każdym ekranie wyróżniony jest jeden główny przycisk.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.58/Mowa-0.2.58.zip" length="5362781" type="application/octet-stream" sparkle:edSignature="XkmkAEV9yOPdEnri1twPWV95jDBv4befY7IjfUsLRb19VdI1FvmySTL1R9E3pm+rMy4oe/Ko2/DWmG8MtsbJAQ==" />
+    </item>
+    <item>
       <title>Mowa 0.2.57</title>
       <pubDate>Sat, 14 Nov 2026 10:33:39 GMT</pubDate>
       <sparkle:version>59</sparkle:version>
