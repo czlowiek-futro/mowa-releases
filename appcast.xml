@@ -6,6 +6,22 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.66</title>
+      <pubDate>Thu, 19 Nov 2026 15:39:39 GMT</pubDate>
+      <sparkle:version>68</sparkle:version>
+      <sparkle:shortVersionString>0.2.66</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Spotkania przez głośniki bez pogłosu&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Gdy rozmawiasz bez słuchawek, mikrofon nie nagrywa już drugi raz głosu drugiej strony z głośników. Mowa przepuszcza mikrofon spotkania przez systemowe usuwanie echa macOS, to samo, którego używa FaceTime.&lt;/li&gt;
+&lt;li&gt;Transkrypt jest czystszy: bez powtórzonych, opóźnionych kwestii i z dokładniejszym podziałem na rozmówców, więc notatka i podsumowanie lepiej oddają rozmowę.&lt;/li&gt;
+&lt;li&gt;Głośność rozmowy i innych aplikacji się nie zmienia. Działa z mikrofonem systemowym i z mikrofonem wybranym w ustawieniach.&lt;/li&gt;
+&lt;li&gt;Jeśli macOS nie włączy usuwania echa, spotkanie nagrywa się dokładnie jak dawniej. Nagranie nie przepada.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dyktowanie i notowanie działają bez zmian.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.66/Mowa-0.2.66.zip" length="5333304" type="application/octet-stream" sparkle:edSignature="KUVqTdzG1Z+KMdFyu7Z5KWFKRISJF3YkfuGWiGomgQX2RFQ+rzsOBFSJMDjUimXTi0NL2VUztbCeVteh290CDw==" />
+    </item>
+    <item>
       <title>Mowa 0.2.65</title>
       <pubDate>Thu, 19 Nov 2026 15:35:40 GMT</pubDate>
       <sparkle:version>67</sparkle:version>
