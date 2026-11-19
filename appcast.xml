@@ -6,6 +6,21 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.65</title>
+      <pubDate>Thu, 19 Nov 2026 15:35:40 GMT</pubDate>
+      <sparkle:version>67</sparkle:version>
+      <sparkle:shortVersionString>0.2.65</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Nagranie zawsze zostanie przepisane.&lt;/b&gt; Gdy ElevenLabs nie odpowiada albo zwraca błąd (awaria serwera, limit zapytań, odrzucony klucz, puste konto), Mowa sama przepisze nagranie przez OpenAI, jeśli masz zapisany klucz OpenAI. Nie musisz niczego ponawiać ręcznie.&lt;/li&gt;
+&lt;li&gt;Przy chwilowym zerwaniu połączenia Mowa najpierw spróbuje jeszcze raz w ElevenLabs, a dopiero potem przełączy się na OpenAI.&lt;/li&gt;
+&lt;li&gt;Bez klucza ElevenLabs nagranie od razu trafia do OpenAI.&lt;/li&gt;
+&lt;li&gt;Cały transkrypt i podpisy rozmówców pochodzą od jednego dostawcy.&lt;/li&gt;
+&lt;li&gt;Nieudana próba w ElevenLabs zostaje w historii kosztów. Komunikat po nagraniu mówi, że przepisało OpenAI, i dlaczego.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.65/Mowa-0.2.65.zip" length="5324402" type="application/octet-stream" sparkle:edSignature="75EhGMeQEWdtnLOEpbINF9y0ZuZyDqLRL6IQXqzi2NVXSOKtapLuDu++LGkdrqZipdBBaX/pKFtZOB6f3fPHBw==" />
+    </item>
+    <item>
       <title>Mowa 0.2.64</title>
       <pubDate>Thu, 19 Nov 2026 15:33:33 GMT</pubDate>
       <sparkle:version>66</sparkle:version>
