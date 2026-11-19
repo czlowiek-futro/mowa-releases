@@ -6,6 +6,21 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.64</title>
+      <pubDate>Thu, 19 Nov 2026 15:33:33 GMT</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>0.2.64</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Mowa 0.2.64: możesz przerwać przetwarzanie&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Escape albo nowy przycisk ✕ na pasku zatrzymuje transkrypcję, korektę, tworzenie notatki i czekanie na automatyczne ponowienie.&lt;/li&gt;
+&lt;li&gt;Nic nie znika: nagranie i ukończone fragmenty zostają w bibliotece jako „Przerwane”, a „Ponów” wyśle tylko to, czego brakuje.&lt;/li&gt;
+&lt;li&gt;Trwające zapytanie jest anulowane bez ponawiania i oznaczone w kosztach jako możliwie płatne.&lt;/li&gt;
+&lt;li&gt;Po przerwaniu Mowa niczego nie wkleja.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.64/Mowa-0.2.64.zip" length="5322058" type="application/octet-stream" sparkle:edSignature="sfJeLefI1WX85DrvjrnQL/Rtgl2LDh0li5xsXhEVUiogc0Qq/toSoQD8bH28JvaWuNW9DvwqJhTIr2CZJ/poAA==" />
+    </item>
+    <item>
       <title>Mowa 0.2.61</title>
       <pubDate>Sat, 14 Nov 2026 19:34:43 GMT</pubDate>
       <sparkle:version>63</sparkle:version>
