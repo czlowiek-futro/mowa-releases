@@ -6,6 +6,15 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.67</title>
+      <pubDate>Thu, 19 Nov 2026 15:45:37 GMT</pubDate>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>0.2.67</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Nowe: „Zgłoś pomysł” w panelu z paska menu, w menu Mowa i w Ustawieniach → Dane i prywatność. Otwiera tablicę pomysłów mowa.fider.io, gdzie zaproponujesz zmianę, zgłosisz problem i zagłosujesz na pomysły innych. Najczęściej wybierane pomysły trafią do Mowy najpierw.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.67/Mowa-0.2.67.zip" length="5337894" type="application/octet-stream" sparkle:edSignature="mM4velifYJiqMXBx3K3pWPSKy8d8ecn74HILl8rcL8qFTxXKkyoHGgZbybFqxNnltAPsHgDPcKtSg67sXVMvBw==" />
+    </item>
+    <item>
       <title>Mowa 0.2.66</title>
       <pubDate>Thu, 19 Nov 2026 15:39:39 GMT</pubDate>
       <sparkle:version>68</sparkle:version>
