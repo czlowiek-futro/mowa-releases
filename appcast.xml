@@ -6,6 +6,15 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.68</title>
+      <pubDate>Sat, 21 Nov 2026 13:46:39 GMT</pubDate>
+      <sparkle:version>70</sparkle:version>
+      <sparkle:shortVersionString>0.2.68</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Co nowego w Mowie&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Nowe okno „Co nowego”: w jednym miejscu widzisz, co dała każda aktualizacja Mowy, od najnowszej. Każda zmiana jest opisana prostym językiem, z datą wydania.&lt;/li&gt;&lt;li&gt;Twoja obecna wersja jest oznaczona, więc od razu wiesz, czy masz najnowsze poprawki.&lt;/li&gt;&lt;li&gt;Okno otworzysz z menu Mowa, z menu ikony w pasku menu, z panelu na pasku menu i z Ustawień → Dane i prywatność.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.68/Mowa-0.2.68.zip" length="5349834" type="application/octet-stream" sparkle:edSignature="38psSqPSOPZXerDmgTcSz7K36WX1i49mXyeedVJaVXuh5pBRqWYx/nsf3kbWIIIEHcstSpZyJw+Qqb/H2Gl1Bg==" />
+    </item>
+    <item>
       <title>Mowa 0.2.67</title>
       <pubDate>Thu, 19 Nov 2026 15:45:37 GMT</pubDate>
       <sparkle:version>69</sparkle:version>
