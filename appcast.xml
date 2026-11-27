@@ -6,6 +6,19 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.71</title>
+      <pubDate>Fri, 27 Nov 2026 12:03:13 GMT</pubDate>
+      <sparkle:version>73</sparkle:version>
+      <sparkle:shortVersionString>0.2.71</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Muzyka nie przycisza się już bez przerwy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cofnęliśmy przygotowywanie mikrofonu z 0.2.70. Przy włączonym „Ogranicz pogłos” w kółko przyciszało i podgłaśniało muzykę, a nagrywanie wcale nie ruszało szybciej.&lt;/li&gt;
+&lt;li&gt;Start nagrywania działa tak jak w 0.2.69. Z włączonym „Ogranicz pogłos” może trwać chwilę dłużej, zwłaszcza z mikrofonem USB. Szukamy szybszego startu, który nie zmienia dźwięku innych aplikacji.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.71/Mowa-0.2.71.zip" length="5357926" type="application/octet-stream" sparkle:edSignature="yY4wu4bI+GhuxEhg3sXiGGjGnQGR7qld5xHmBFbhD5HVDx6kqUc11NsTqxkrqmRmLSOWILtTJ6hkaPFzdXO1BA==" />
+    </item>
+    <item>
       <title>Mowa 0.2.70</title>
       <pubDate>Fri, 27 Nov 2026 11:44:45 GMT</pubDate>
       <sparkle:version>72</sparkle:version>
