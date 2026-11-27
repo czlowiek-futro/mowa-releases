@@ -6,6 +6,19 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.72</title>
+      <pubDate>Fri, 27 Nov 2026 13:32:52 GMT</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>0.2.72</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Bez przełącznika „Ogranicz pogłos”&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Usunęliśmy przełącznik „Ogranicz pogłos”. Nie dawał wyraźnie lepszego dźwięku, a spowalniał start nagrywania.&lt;/li&gt;
+&lt;li&gt;Dyktowanie i notatki nagrywają tak jak w 0.2.68, więc mikrofon, także USB, rusza od razu. Spotkania dalej usuwają echo z głośników.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.72/Mowa-0.2.72.zip" length="5351674" type="application/octet-stream" sparkle:edSignature="X0ywaWxvJ3YuwbXFg89rjCuCzJjlbmWJw8S6hJsIoCs8NTj5b4ugk4OP/pUAqjoi5J47UlvOwuFkogMlBFsaCw==" />
+    </item>
+    <item>
       <title>Mowa 0.2.71</title>
       <pubDate>Fri, 27 Nov 2026 12:03:13 GMT</pubDate>
       <sparkle:version>73</sparkle:version>
