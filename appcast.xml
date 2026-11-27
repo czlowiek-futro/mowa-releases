@@ -6,6 +6,20 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.70</title>
+      <pubDate>Fri, 27 Nov 2026 11:44:45 GMT</pubDate>
+      <sparkle:version>72</sparkle:version>
+      <sparkle:shortVersionString>0.2.70</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Szybszy start z „Ogranicz pogłos”&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Przy włączonym „Ogranicz pogłos” Mowa przygotowuje przetwarzanie głosu zawczasu, między nagraniami. Po naciśnięciu Fn zostaje tylko włączenie mikrofonu, więc nagrywanie rusza szybciej i pierwsze słowa trafiają do nagrania, zwłaszcza z mikrofonem USB, np. Shure.&lt;/li&gt;
+&lt;li&gt;Przygotowanie nie włącza mikrofonu: kropka nagrywania w pasku menu pojawia się dopiero, gdy naprawdę nagrywasz.&lt;/li&gt;
+&lt;li&gt;Spotkania korzystają z tego samego przygotowania, gdy przełącznik jest włączony. Gdy coś się zmieni, na przykład podłączysz inny mikrofon, Mowa uruchamia go jak dotąd, więc nagranie nie przepada.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.70/Mowa-0.2.70.zip" length="5381035" type="application/octet-stream" sparkle:edSignature="IK2ao4/Q6pkIiWQzf/Efxut/qs8XZ5826w0IoDfAtPh7xNlYr1IMDBgS1tzR/28amKIku0Z5c8MskOAZz1HpCg==" />
+    </item>
+    <item>
       <title>Mowa 0.2.69</title>
       <pubDate>Fri, 27 Nov 2026 10:40:30 GMT</pubDate>
       <sparkle:version>71</sparkle:version>
