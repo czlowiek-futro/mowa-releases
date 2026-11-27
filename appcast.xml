@@ -6,6 +6,20 @@
     <description>Aktualizacje Mowy dla macOS</description>
     <language>pl</language>
     <item>
+      <title>Mowa 0.2.69</title>
+      <pubDate>Fri, 27 Nov 2026 10:40:30 GMT</pubDate>
+      <sparkle:version>71</sparkle:version>
+      <sparkle:shortVersionString>0.2.69</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Mniej pogłosu w dyktowaniu&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Nowy przełącznik „Ogranicz pogłos” w Ustawieniach → Nagrywanie. Dyktowanie i notatki przechodzą przez przetwarzanie głosu macOS, to samo co w FaceTime, więc w pokoju z echem głos brzmi bliżej i czyściej, a rozpoznawanie mowy myli się rzadziej.&lt;/li&gt;
+&lt;li&gt;Działa z mikrofonem wbudowanym i z wybranym mikrofonem USB. Spotkania miały to przetwarzanie już wcześniej.&lt;/li&gt;
+&lt;li&gt;Pogłos jest przytłumiony, nie usunięty. Gdy macOS nie uruchomi przetwarzania, Mowa nagrywa jak dotąd, więc nagranie nie przepada.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/czlowiek-futro/mowa-releases/releases/download/v0.2.69/Mowa-0.2.69.zip" length="5356766" type="application/octet-stream" sparkle:edSignature="u+jmF/KJC653luWCLxXPwyHlYBESR8De81ikrgg9Ctie6Lw3w1KhpicqZkdW6eUgtmbHudCVlGKn12LPp78CDQ==" />
+    </item>
+    <item>
       <title>Mowa 0.2.68</title>
       <pubDate>Sat, 21 Nov 2026 13:46:39 GMT</pubDate>
       <sparkle:version>70</sparkle:version>
